@@ -6,8 +6,9 @@ I am a highly skilled Full-Stack Developer, <br>specializing in Flutter for fron
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohamedfakhrrry/) 
 
-Let’s build the future together!  Connect with me on LinkedIn 🚀
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedfakhry007/) 
+Let’s build the future together!  Connect with me on LinkedIn 🚀 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedfakhry007/)   
 
 
 # 💻 Tech Stack:
