@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi There
 I am a highly skilled Full-Stack Developer, <br>specializing in Flutter for frontend and Go for backend, <br>with deep expertise in System Design, Scalability, <br>and Competitive Programming. <br>With a strong foundation in Object-Oriented Programming (OOP) and High-Performance Architectures, I’m driven by innovation, efficiency, and problem-solving at scale.<br><br>My passion lies in building high-impact digital products, leveraging AI, SaaS, and automation to create next-generation tech solutions. Whether it’s scalable cloud applications, high-performance mobile apps, or optimized algorithms for competitive programming, I thrive on solving complex challenges with precision and efficiency.<br><br> 
 
 
@@ -24,8 +24,4 @@ I am a highly skilled Full-Stack Developer, <br>specializing in Flutter for fron
 ---
 [![](https://visitcount.itsvg.in/api?id=mohamedd8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
