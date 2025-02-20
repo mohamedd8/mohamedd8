@@ -1,7 +1,23 @@
 #  Hi there, I'm Mohamed 👋
 
-I am a highly skilled Full-Stack Developer, <br>specializing in Flutter for frontend and Go for backend, <br>with deep expertise in System Design, Scalability, <br>and Competitive Programming. <br>With a strong foundation in Object-Oriented Programming (OOP) and High-Performance Architectures, I’m driven by innovation, efficiency, and problem-solving at scale.<br><br>My passion lies in building high-impact digital products, leveraging AI, SaaS, and automation to create next-generation tech solutions. Whether it’s scalable cloud applications, high-performance mobile apps, or optimized algorithms for competitive programming, I thrive on solving complex challenges with precision and efficiency.<br><br> 
+ Highly skilled Full-Stack Developer with over 7 years of experience in Software Engineering & Programming.
 
+I specialize in Flutter for frontend and Go for backend, with deep expertise in:
+
+✅ System Design & Scalability
+
+✅ High-Performance Architectures
+
+✅ Competitive Programming
+
+With a strong foundation in Object-Oriented Programming (OOP) and modern software architectures, I’m driven by innovation, efficiency, and solving problems at scale.
+
+💡 My passion lies in building high-impact digital products, leveraging:
+🔹 AI & Automation for cutting-edge solutions🔹 SaaS Development for scalable applications
+🔹Cloud & Distributed Systems for enterprise-level solutions
+🔹 Advanced Algorithm Optimization for competitive programming
+
+🛠 Always exploring new technologies to push the boundaries of performance and scalability.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohamedfakhrrry/) 
