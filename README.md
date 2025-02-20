@@ -8,7 +8,7 @@
 
 ---
 
-## 💡 Expertise & Specialties :
+# 💡 Expertise & Specialties :
 
 ###  ✅ System Design & Scalability - Architecting high-performance distributed systems. 
 
@@ -24,7 +24,7 @@
 
 
 
-# 🌐 Socials:
+# 🌐 Social Media :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohamedfakhrrry/) 
 
 ## Let’s build the future together!  Connect with me on LinkedIn 🚀 
