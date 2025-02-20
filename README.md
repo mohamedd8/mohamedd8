@@ -1,11 +1,11 @@
 # Hi there, I'm Mohamed 👋
 
 
-#### 🔹 Highly skilled Full-Stack Developer with 7+ years of experience in Software Engineering & Scalable System Design.
+### 🔹 Highly skilled Full-Stack Developer with 7+ years of experience in Software Engineering & Scalable System Design.
 
-#### 🔹 Expert in Flutter for frontend & Go for backend, crafting high-performance, scalable, and robust applications.
+### 🔹 Expert in Flutter for frontend & Go for backend, crafting high-performance, scalable, and robust applications.
 
-#### 🔹 Passionate about cutting-edge technologies, AI-driven automation, and building next-gen digital products.
+### 🔹 Passionate about cutting-edge technologies, AI-driven automation, and building next-gen digital products.
 
 
 ## 💡 Expertise & Specialties:
