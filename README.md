@@ -12,21 +12,6 @@
 
 ---
 
-# 💡 Expertise & Specialties :
-
-###  ✅ System Design & Scalability - Architecting high-performance distributed systems. 
-
-###  ✅ Cloud & DevOps - Scalable cloud-native applications on AWS, GCP, and DigitalOcean.
-
-###  ✅ AI & Automation - Leveraging AI to optimize workflows and automate complex processes.
-
-###  ✅ SaaS Development - Building scalable software-as-a-service solutions for enterprises.
-
-###  ✅ High-Performance Architectures - Optimized, modular, and scalable codebases.
-
-###  ✅ Advanced Algorithm Optimization - Specialized in performance tuning & algorithmic efficiency.
-
-
 
 # 🌐 Social Media :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohamedfakhrrry/) 
