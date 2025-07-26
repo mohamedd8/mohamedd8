@@ -10,15 +10,6 @@
 
 ###  🔹Passionate about cutting-edge technologies, AI-driven automation, and building next-gen digital products.
 
----
-
-
-# 🌐 Social Media :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohamedfakhrrry/) 
-
-### Let’s build the future together!  Connect with me on LinkedIn 🚀 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedfakhry007/)   
 
 ---
 # 💻 Tech Stack:
