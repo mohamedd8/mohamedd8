@@ -2,10 +2,10 @@
 
 
 
-###  🔹Highly skilled Full-Stack Developer with 7+ years of experience in Software Engineering & Programming.
+###  🔹Highly skilled Full-Stack Developer with 7+ years of experience in Software Development & Programming.
 
 
-###  🔹Expert in Flutter for frontend & Node.js for backend , crafting high-performance, scalable Applications.
+###  🔹Expert in Flutter for , crafting high-performance, scalable Applications.
 
 
 ###  🔹Passionate about cutting-edge technologies, AI-driven automation, and building next-gen digital products.
